@@ -1,16 +1,26 @@
-# flutter_application_1
+# Frontend - Flutter App (Vista Test)
 
-A new Flutter project.
+This is the **Flutter frontend** for the Vista Fullstack Test.  
+The app allows you to:
+- View a list of companies and their services.
+- Create a new company.
+- Create a new service linked to a company.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **Tech Stack**
+- **Framework**: Flutter
+- **State Management**: Provider
+- **HTTP Client**: `http`
+- **Language**: Dart
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## **Project Setup**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **1. Prerequisites**
+Before running the project, make sure you have installed:
+- Flutter SDK
+- Dart SDK (included in Flutter)
+- The backend API from back-end-test-vista is running
+
