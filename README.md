@@ -5,6 +5,7 @@ The app allows you to:
 - View a list of companies and their services.
 - Create a new company.
 - Create a new service linked to a company.
+- - View service details.
 
 ---
 
